@@ -1,0 +1,5 @@
+{
+    "data": "/WORKSPACE/Oscar/GBA_Haplotype_cDNA_03_10_23/OG_17_10_23_cDNA/OG_17_10_23_cDNA/20231017_1915_X3_FAW09093_c4aba7dc",
+	"genome_reference": "/WORKSPACE/Oscar/Reference_Sequence/hg38.fa",
+	"transcriptome_reference": "/WORKSPACE/Oscar/Reference_Sequence/hg38.knownGene.gtf"
+}
